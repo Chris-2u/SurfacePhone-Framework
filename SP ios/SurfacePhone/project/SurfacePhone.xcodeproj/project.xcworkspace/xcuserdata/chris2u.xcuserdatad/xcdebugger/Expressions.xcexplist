@@ -1,0 +1,14 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<VariablesViewState
+   version = "1.0">
+   <ContextStates>
+      <ContextState
+         contextName = "-[iPhoneVideoGrabber initCapture:capWidth:capHeight:]:AVFoundationVideoGrabber.mm">
+         <PersistentStrings>
+            <PersistentString
+               value = "(Class)[0]-&gt;[0]-&gt;isa">
+            </PersistentString>
+         </PersistentStrings>
+      </ContextState>
+   </ContextStates>
+</VariablesViewState>
